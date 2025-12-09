@@ -1,0 +1,5 @@
+{
+  "name": "Victory Presentations",
+  "description": "A refined, iPad-style application to list, download, and play zipped HTML content directly from an Amazon S3 bucket.",
+  "requestFramePermissions": []
+}
